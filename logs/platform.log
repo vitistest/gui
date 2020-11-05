@@ -1,0 +1,2440 @@
+TRACE::2020-11-05.15:42:26::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:26::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:26::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:29::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:29::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:29::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:29::SCWPlatform::Do not have an existing db opened. 
+TRACE::2020-11-05.15:42:30::SCWPlatform::Opened new HwDB with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:30::SCWWriter::formatted JSON is {
+	"platformName":	"zc702",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zc702",
+	"platHandOff":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/embeddedsw/lib/fixed_hwplatforms/zc702.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zc702.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2020-11-05.15:42:30::SCWWriter::formatted JSON is {
+	"platformName":	"zc702",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zc702",
+	"platHandOff":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/embeddedsw/lib/fixed_hwplatforms/zc702.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zc702.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"zc702",
+	"systems":	[{
+			"systemName":	"zc702",
+			"systemDesc":	"zc702",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"zc702"
+		}]
+}
+TRACE::2020-11-05.15:42:30::SCWPlatform::Boot application domains not present, creating them
+TRACE::2020-11-05.15:42:30::SCWDomain::checking for install qemu data   : 
+TRACE::2020-11-05.15:42:30::SCWDomain:: Using the QEMU Data from install at  : /proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2020-11-05.15:42:30::SCWDomain:: Using the QEMU args  from install at  : /proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2020-11-05.15:42:30::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:30::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:30::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:30::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:30::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:30::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:30::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:30::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:30::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:30::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:30::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:30::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:30::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:30::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:30::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:30::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:30::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:30::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:30::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:30::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:30::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:30::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:30::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:30::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:30::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:30::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:30::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:30::SCWPlatform::Boot application domain added for zynq_fsbl
+TRACE::2020-11-05.15:42:30::SCWPlatform::Generating the sources  .
+TRACE::2020-11-05.15:42:30::SCWBDomain::Generating boot domain sources.
+TRACE::2020-11-05.15:42:30::SCWBDomain:: Generating the zynq_fsbl Application.
+TRACE::2020-11-05.15:42:30::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:30::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:30::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:30::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:30::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:30::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:30::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:30::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:30::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:30::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:30::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2020-11-05.15:42:30::SCWMssOS::No sw design opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:30::SCWMssOS::mss does not exists at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:30::SCWMssOS::Creating sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:30::SCWMssOS::Adding the swdes entry, created swdb /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:30::SCWMssOS::updating the scw layer changes to swdes at   /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:30::SCWMssOS::Writing mss at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:30::SCWMssOS::Completed writing the mss file at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2020-11-05.15:42:30::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2020-11-05.15:42:30::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2020-11-05.15:42:30::SCWBDomain::Completed writing the mss file at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2020-11-05.15:42:37::SCWPlatform::Generating sources Done.
+TRACE::2020-11-05.15:42:37::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:37::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:37::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:37::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:37::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:37::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:38::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss||
+
+KEYINFO::2020-11-05.15:42:38::SCWMssOS::Could not open the swdb for /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+KEYINFO::2020-11-05.15:42:38::SCWMssOS::Could not open the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss is not found
+
+TRACE::2020-11-05.15:42:38::SCWMssOS::Cleared the swdb table entry
+TRACE::2020-11-05.15:42:38::SCWMssOS::No sw design opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::mss exists loading the mss file  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::Opened the sw design from mss  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::Adding the swdes entry /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2020-11-05.15:42:38::SCWMssOS::updating the scw layer about changes
+TRACE::2020-11-05.15:42:38::SCWMssOS::Opened the sw design.  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::Saving the mss changes /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-11-05.15:42:38::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-11-05.15:42:38::SCWMssOS::Commit changes completed.
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:38::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:38::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:38::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:38::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:38::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:38::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWWriter::formatted JSON is {
+	"platformName":	"zc702",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zc702",
+	"platHandOff":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/embeddedsw/lib/fixed_hwplatforms/zc702.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zc702.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"zc702",
+	"systems":	[{
+			"systemName":	"zc702",
+			"systemDesc":	"zc702",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"zc702",
+			"sysActiveDom":	"zynq_fsbl",
+			"sysDefaultDom":	"",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"5c459b9e51a7fcad8ac2a5fb41580429",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2020-11-05.15:42:38::SCWMssOS::Saving the mss changes /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-11-05.15:42:38::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-11-05.15:42:38::SCWMssOS::Commit changes completed.
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:38::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:38::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:38::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:38::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:38::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:38::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWWriter::formatted JSON is {
+	"platformName":	"zc702",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zc702",
+	"platHandOff":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/embeddedsw/lib/fixed_hwplatforms/zc702.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zc702.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"zc702",
+	"systems":	[{
+			"systemName":	"zc702",
+			"systemDesc":	"zc702",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"zc702",
+			"sysActiveDom":	"zynq_fsbl",
+			"sysDefaultDom":	"",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"5c459b9e51a7fcad8ac2a5fb41580429",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2020-11-05.15:42:38::SCWDomain::checking for install qemu data   : 
+TRACE::2020-11-05.15:42:38::SCWDomain:: Using the QEMU Data from install at  : /proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2020-11-05.15:42:38::SCWDomain:: Using the QEMU args  from install at  : /proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:38::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:38::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:38::SCWMssOS::No sw design opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::mss does not exists at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::Creating sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::Adding the swdes entry, created swdb /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss with des name /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::updating the scw layer changes to swdes at   /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::Writing mss at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:38::SCWMssOS::Completed writing the mss file at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2020-11-05.15:42:38::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2020-11-05.15:42:38::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2020-11-05.15:42:38::SCWMssOS::Completed writing the mss file at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2020-11-05.15:42:38::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Saving the mss changes /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Commit changes completed.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Saving the mss changes /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Running validate of swdbs.
+KEYINFO::2020-11-05.15:42:39::SCWMssOS::Could not open the swdb for /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+KEYINFO::2020-11-05.15:42:39::SCWMssOS::Could not open the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss is not found
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Cleared the swdb table entry
+TRACE::2020-11-05.15:42:39::SCWMssOS::Adding the swdes entry, mss present, able to open swdb /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss with des name system_0
+TRACE::2020-11-05.15:42:39::SCWMssOS::Writing the mss file completed /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::Commit changes completed.
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWWriter::formatted JSON is {
+	"platformName":	"zc702",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zc702",
+	"platHandOff":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/embeddedsw/lib/fixed_hwplatforms/zc702.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zc702.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"zc702",
+	"systems":	[{
+			"systemName":	"zc702",
+			"systemDesc":	"zc702",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"zc702",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"5c459b9e51a7fcad8ac2a5fb41580429",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"89698c41903a108f22ff01cec4bc34b1",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2020-11-05.15:42:39::SCWPlatform::Started generating the artifacts platform zc702
+TRACE::2020-11-05.15:42:39::SCWPlatform::Sanity checking of platform is completed
+LOG::2020-11-05.15:42:39::SCWPlatform::Started generating the artifacts for system configuration zc702
+LOG::2020-11-05.15:42:39::SCWSystem::Checking the domain zynq_fsbl
+LOG::2020-11-05.15:42:39::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2020-11-05.15:42:39::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2020-11-05.15:42:39::SCWDomain::Skipping the build for domain :  zynq_fsbl
+LOG::2020-11-05.15:42:39::SCWSystem::Checking the domain standalone_ps7_cortexa9_0
+LOG::2020-11-05.15:42:39::SCWSystem::Not a boot domain 
+LOG::2020-11-05.15:42:39::SCWSystem::Started Processing the domain standalone_ps7_cortexa9_0
+TRACE::2020-11-05.15:42:39::SCWDomain::Generating domain artifcats
+TRACE::2020-11-05.15:42:39::SCWMssOS::Generating standalone artifcats
+TRACE::2020-11-05.15:42:39::SCWMssOS::Copying the qemu file from  /proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/export/zc702/sw/zc702/qemu/
+TRACE::2020-11-05.15:42:39::SCWMssOS::Copying the qemu file from  /proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/export/zc702/sw/zc702/standalone_ps7_cortexa9_0/qemu/
+TRACE::2020-11-05.15:42:39::SCWMssOS:: Copying the user libraries. 
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::Completed writing the mss file at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2020-11-05.15:42:39::SCWMssOS::Mss edits present, copying mssfile into export location /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2020-11-05.15:42:39::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2020-11-05.15:42:39::SCWDomain::Skipping the build for domain :  standalone_ps7_cortexa9_0
+TRACE::2020-11-05.15:42:39::SCWMssOS::skipping the bsp build ... 
+TRACE::2020-11-05.15:42:39::SCWMssOS::Copying to export directory.
+TRACE::2020-11-05.15:42:39::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2020-11-05.15:42:39::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2020-11-05.15:42:39::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2020-11-05.15:42:39::SCWSystem::Completed Processing the domain standalone_ps7_cortexa9_0
+LOG::2020-11-05.15:42:39::SCWSystem::Completed Processing the sysconfig zc702
+LOG::2020-11-05.15:42:39::SCWPlatform::Completed generating the artifacts for system configuration zc702
+TRACE::2020-11-05.15:42:39::SCWPlatform::Started preparing the platform 
+TRACE::2020-11-05.15:42:39::SCWSystem::Writing the bif file for system config zc702
+TRACE::2020-11-05.15:42:39::SCWSystem::dir created 
+TRACE::2020-11-05.15:42:39::SCWSystem::Writing the bif 
+TRACE::2020-11-05.15:42:39::SCWPlatform::Started writing the spfm file 
+TRACE::2020-11-05.15:42:39::SCWPlatform::Started writing the xpfm file 
+TRACE::2020-11-05.15:42:39::SCWPlatform::Completed generating the platform
+TRACE::2020-11-05.15:42:39::SCWMssOS::Saving the mss changes /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Commit changes completed.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Saving the mss changes /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Commit changes completed.
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWWriter::formatted JSON is {
+	"platformName":	"zc702",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zc702",
+	"platHandOff":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/embeddedsw/lib/fixed_hwplatforms/zc702.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zc702.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"zc702",
+	"systems":	[{
+			"systemName":	"zc702",
+			"systemDesc":	"zc702",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"zc702",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"5c459b9e51a7fcad8ac2a5fb41580429",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"89698c41903a108f22ff01cec4bc34b1",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2020-11-05.15:42:39::SCWPlatform::updated the xpfm file.
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::Saving the mss changes /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Commit changes completed.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Saving the mss changes /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Commit changes completed.
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWWriter::formatted JSON is {
+	"platformName":	"zc702",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zc702",
+	"platHandOff":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/embeddedsw/lib/fixed_hwplatforms/zc702.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zc702.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"zc702",
+	"systems":	[{
+			"systemName":	"zc702",
+			"systemDesc":	"zc702",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"zc702",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"5c459b9e51a7fcad8ac2a5fb41580429",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"89698c41903a108f22ff01cec4bc34b1",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::Saving the mss changes /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Commit changes completed.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Saving the mss changes /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-11-05.15:42:39::SCWMssOS::Commit changes completed.
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:39::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:39::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:39::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:39::SCWWriter::formatted JSON is {
+	"platformName":	"zc702",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zc702",
+	"platHandOff":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/embeddedsw/lib/fixed_hwplatforms/zc702.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zc702.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"zc702",
+	"systems":	[{
+			"systemName":	"zc702",
+			"systemDesc":	"zc702",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"zc702",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"5c459b9e51a7fcad8ac2a5fb41580429",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"89698c41903a108f22ff01cec4bc34b1",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2020-11-05.15:42:39::SCWPlatform::Started generating the artifacts platform zc702
+TRACE::2020-11-05.15:42:39::SCWPlatform::Sanity checking of platform is completed
+LOG::2020-11-05.15:42:40::SCWPlatform::Started generating the artifacts for system configuration zc702
+LOG::2020-11-05.15:42:40::SCWSystem::Started Processing the domain standalone_ps7_cortexa9_0
+TRACE::2020-11-05.15:42:40::SCWDomain::Generating domain artifcats
+TRACE::2020-11-05.15:42:40::SCWMssOS::Generating standalone artifcats
+TRACE::2020-11-05.15:42:40::SCWMssOS::Copying the qemu file from  /proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/export/zc702/sw/zc702/qemu/
+TRACE::2020-11-05.15:42:40::SCWMssOS::Copying the qemu file from  /proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/export/zc702/sw/zc702/standalone_ps7_cortexa9_0/qemu/
+TRACE::2020-11-05.15:42:40::SCWMssOS:: Copying the user libraries. 
+TRACE::2020-11-05.15:42:40::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:40::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:40::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:40::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:40::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:40::SCWMssOS::Completed writing the mss file at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2020-11-05.15:42:40::SCWMssOS::Mss edits present, copying mssfile into export location /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:40::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2020-11-05.15:42:40::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2020-11-05.15:42:40::SCWDomain::Building the domain as part of full build :  standalone_ps7_cortexa9_0
+TRACE::2020-11-05.15:42:40::SCWMssOS::skipping the bsp build ... 
+TRACE::2020-11-05.15:42:40::SCWMssOS::Copying to export directory.
+TRACE::2020-11-05.15:42:40::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2020-11-05.15:42:40::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2020-11-05.15:42:40::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2020-11-05.15:42:40::SCWSystem::Completed Processing the domain standalone_ps7_cortexa9_0
+LOG::2020-11-05.15:42:40::SCWSystem::Completed Processing the sysconfig zc702
+LOG::2020-11-05.15:42:40::SCWPlatform::Completed generating the artifacts for system configuration zc702
+TRACE::2020-11-05.15:42:40::SCWPlatform::Started preparing the platform 
+TRACE::2020-11-05.15:42:40::SCWSystem::Writing the bif file for system config zc702
+TRACE::2020-11-05.15:42:40::SCWSystem::dir created 
+TRACE::2020-11-05.15:42:40::SCWSystem::Writing the bif 
+TRACE::2020-11-05.15:42:40::SCWPlatform::Started writing the spfm file 
+TRACE::2020-11-05.15:42:40::SCWPlatform::Started writing the xpfm file 
+TRACE::2020-11-05.15:42:40::SCWPlatform::Completed generating the platform
+TRACE::2020-11-05.15:42:40::SCWMssOS::Saving the mss changes /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:40::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-11-05.15:42:40::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-11-05.15:42:40::SCWMssOS::Commit changes completed.
+TRACE::2020-11-05.15:42:40::SCWMssOS::Saving the mss changes /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:40::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-11-05.15:42:40::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-11-05.15:42:40::SCWMssOS::Commit changes completed.
+TRACE::2020-11-05.15:42:40::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:40::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:40::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:40::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:40::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:40::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:40::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:40::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:40::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:40::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:40::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:40::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:40::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:40::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:40::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:42:40::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:40::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:40::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:40::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:40::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:40::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:40::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:40::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:40::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:40::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:40::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:42:40::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:42:40::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:42:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:42:40::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:40::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:42:40::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:42:40::SCWWriter::formatted JSON is {
+	"platformName":	"zc702",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zc702",
+	"platHandOff":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/embeddedsw/lib/fixed_hwplatforms/zc702.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zc702.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"zc702",
+	"systems":	[{
+			"systemName":	"zc702",
+			"systemDesc":	"zc702",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"zc702",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"5c459b9e51a7fcad8ac2a5fb41580429",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"89698c41903a108f22ff01cec4bc34b1",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2020-11-05.15:42:40::SCWPlatform::updated the xpfm file.
+LOG::2020-11-05.15:44:13::SCWPlatform::Started generating the artifacts platform zc702
+TRACE::2020-11-05.15:44:13::SCWPlatform::Sanity checking of platform is completed
+LOG::2020-11-05.15:44:13::SCWPlatform::Started generating the artifacts for system configuration zc702
+LOG::2020-11-05.15:44:13::SCWSystem::Checking the domain zynq_fsbl
+LOG::2020-11-05.15:44:13::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2020-11-05.15:44:13::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2020-11-05.15:44:13::SCWDomain::Building the domain as part of full build :  zynq_fsbl
+TRACE::2020-11-05.15:44:13::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:13::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:13::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:13::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:44:13::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:13::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:44:13::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:44:13::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:44:13::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:44:13::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:44:13::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:44:13::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:44:14::SCWBDomain::Completed writing the mss file at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2020-11-05.15:44:14::SCWBDomain::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2020-11-05.15:44:14::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2020-11-05.15:44:14::SCWBDomain::System Command Ran  cd  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl ; bash -c " make -C zynq_fsbl_bsp ; make  " 
+TRACE::2020-11-05.15:44:14::SCWBDomain::make: Entering directory `/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp'
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make --no-print-directory seq_libs
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_8/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/gpiops_v3_8/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/xilffs_v4_4/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v4_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_3/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v7_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-
+TRACE::2020-11-05.15:44:14::SCWBDomain::eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=ha
+TRACE::2020-11-05.15:44:14::SCWBDomain::rd -nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_12/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/emacps_v3_12/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eab
+TRACE::2020-11-05.15:44:14::SCWBDomain::i-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard 
+TRACE::2020-11-05.15:44:14::SCWBDomain::-nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/ttcps_v3_12/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ttcps_v3_12/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_6/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/usbps_v2_6/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-11-05.15:44:14::SCWBDomain::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-11-05.15:44:14::SCWBDomain::ostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-no
+TRACE::2020-11-05.15:44:14::SCWBDomain::ne-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi
+TRACE::2020-11-05.15:44:14::SCWBDomain::=hard -nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_3/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/iicps_v3_12/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/iicps_v3_12/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_3/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2020-11-05.15:44:14::SCWBDomain::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2020-11-05.15:44:14::SCWBDomain:: -nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/canps_v3_5/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/canps_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-11-05.15:44:14::SCWBDomain::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-11-05.15:44:14::SCWBDomain::ostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_5/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-
+TRACE::2020-11-05.15:44:14::SCWBDomain::none-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-a
+TRACE::2020-11-05.15:44:14::SCWBDomain::bi=hard -nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_10/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/sdps_v3_10/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-11-05.15:44:14::SCWBDomain::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-11-05.15:44:14::SCWBDomain::ostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-11-05.15:44:14::SCWBDomain::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-11-05.15:44:14::SCWBDomain::ostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_10/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_10/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eab
+TRACE::2020-11-05.15:44:14::SCWBDomain::i-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard 
+TRACE::2020-11-05.15:44:14::SCWBDomain::-nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_8/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/qspips_v3_8/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_3/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v4_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_7/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-11-05.15:44:14::SCWBDomain::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-11-05.15:44:14::SCWBDomain::ostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:14::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:14::SCWBDomain::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Finished building libraries sequentially.
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -j --no-print-directory par_libs
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_8/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/xilffs_v4_4/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_3/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_12/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/ttcps_v3_12/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/gpiops_v3_8/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_6/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v4_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v7_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-
+TRACE::2020-11-05.15:44:14::SCWBDomain::eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=ha
+TRACE::2020-11-05.15:44:14::SCWBDomain::rd -nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/emacps_v3_12/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eab
+TRACE::2020-11-05.15:44:14::SCWBDomain::i-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard 
+TRACE::2020-11-05.15:44:14::SCWBDomain::-nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ttcps_v3_12/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/usbps_v2_6/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-11-05.15:44:14::SCWBDomain::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-11-05.15:44:14::SCWBDomain::ostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-no
+TRACE::2020-11-05.15:44:14::SCWBDomain::ne-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi
+TRACE::2020-11-05.15:44:14::SCWBDomain::=hard -nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_3/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/iicps_v3_12/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/iicps_v3_12/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_3/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/canps_v3_5/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2020-11-05.15:44:14::SCWBDomain::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2020-11-05.15:44:14::SCWBDomain:: -nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/canps_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-11-05.15:44:14::SCWBDomain::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-11-05.15:44:14::SCWBDomain::ostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_5/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_10/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-
+TRACE::2020-11-05.15:44:14::SCWBDomain::none-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-a
+TRACE::2020-11-05.15:44:14::SCWBDomain::bi=hard -nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/sdps_v3_10/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-11-05.15:44:14::SCWBDomain::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-11-05.15:44:14::SCWBDomain::ostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_10/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_8/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-11-05.15:44:14::SCWBDomain::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-11-05.15:44:14::SCWBDomain::ostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_10/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eab
+TRACE::2020-11-05.15:44:14::SCWBDomain::i-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard 
+TRACE::2020-11-05.15:44:14::SCWBDomain::-nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/qspips_v3_8/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_3/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_7/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v4_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:14::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:14::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-11-05.15:44:14::SCWBDomain::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-11-05.15:44:14::SCWBDomain::ostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_8/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/xilffs_v4_4/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/standalone_v7_3/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_12/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/gpiops_v3_8/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:14::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:14::SCWBDomain::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v3_12/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_6/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v4_4/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:14::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:14::SCWBDomain::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v7_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eab
+TRACE::2020-11-05.15:44:14::SCWBDomain::i-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard 
+TRACE::2020-11-05.15:44:14::SCWBDomain::-nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/emacps_v3_12/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2020-11-05.15:44:14::SCWBDomain::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2020-11-05.15:44:14::SCWBDomain::startfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ttcps_v3_12/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:14::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:14::SCWBDomain::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/usbps_v2_6/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2020-11-05.15:44:14::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2020-11-05.15:44:14::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_7/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_3/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-
+TRACE::2020-11-05.15:44:14::SCWBDomain::eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=ha
+TRACE::2020-11-05.15:44:14::SCWBDomain::rd -nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:14::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:14::SCWBDomain::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:14::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:14::SCWBDomain::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/iicps_v3_12/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_3/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/iicps_v3_12/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:14::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:14::SCWBDomain::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-11-05.15:44:14::SCWBDomain::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-11-05.15:44:14::SCWBDomain::ostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/canps_v3_5/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/canps_v3_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2020-11-05.15:44:14::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2020-11-05.15:44:14::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_5/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:14::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:14::SCWBDomain::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-non
+TRACE::2020-11-05.15:44:14::SCWBDomain::e-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=
+TRACE::2020-11-05.15:44:14::SCWBDomain::hard -nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_10/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/sdps_v3_10/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2020-11-05.15:44:14::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2020-11-05.15:44:14::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_2/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2020-11-05.15:44:14::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2020-11-05.15:44:14::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_10/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_10/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2020-11-05.15:44:14::SCWBDomain::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2020-11-05.15:44:14::SCWBDomain::startfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_8/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/qspips_v3_8/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:14::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:14::SCWBDomain::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/scugic_v4_3/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v4_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:14::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:14::SCWBDomain::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_7/src
+
+TRACE::2020-11-05.15:44:14::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_7/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2020-11-05.15:44:14::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2020-11-05.15:44:14::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:16::SCWBDomain::Finished building libraries parallelly.
+
+TRACE::2020-11-05.15:44:16::SCWBDomain::make --no-print-directory archive
+
+TRACE::2020-11-05.15:44:16::SCWBDomain::arm-none-eabi-ar -r  ps7_cortexa9_0/lib/libxil.a ps7_cortexa9_0/lib/xsdps_sinit.o ps7_cortexa9_0/lib/xgpiops.o ps7_cortexa9_0/l
+TRACE::2020-11-05.15:44:16::SCWBDomain::ib/xqspips_g.o ps7_cortexa9_0/lib/xiicps_master.o ps7_cortexa9_0/lib/xiicps_options.o ps7_cortexa9_0/lib/xemacps_sinit.o ps7_co
+TRACE::2020-11-05.15:44:16::SCWBDomain::rtexa9_0/lib/_sbrk.o ps7_cortexa9_0/lib/xiicps.o ps7_cortexa9_0/lib/xemacps_g.o ps7_cortexa9_0/lib/xpm_counter.o ps7_cortexa9_0
+TRACE::2020-11-05.15:44:16::SCWBDomain::/lib/xttcps.o ps7_cortexa9_0/lib/xdevcfg_selftest.o ps7_cortexa9_0/lib/xscutimer.o ps7_cortexa9_0/lib/xdmaps.o ps7_cortexa9_0/l
+TRACE::2020-11-05.15:44:16::SCWBDomain::ib/xemacps_hw.o ps7_cortexa9_0/lib/getpid.o ps7_cortexa9_0/lib/xdevcfg_g.o ps7_cortexa9_0/lib/asm_vectors.o ps7_cortexa9_0/lib/
+TRACE::2020-11-05.15:44:16::SCWBDomain::xiicps_hw.o ps7_cortexa9_0/lib/xl2cc_counter.o ps7_cortexa9_0/lib/xusbps_hw.o ps7_cortexa9_0/lib/xuartps_g.o ps7_cortexa9_0/lib
+TRACE::2020-11-05.15:44:16::SCWBDomain::/xuartps_selftest.o ps7_cortexa9_0/lib/xuartps_sinit.o ps7_cortexa9_0/lib/xcanps_selftest.o ps7_cortexa9_0/lib/xadcps.o ps7_cor
+TRACE::2020-11-05.15:44:16::SCWBDomain::texa9_0/lib/unlink.o ps7_cortexa9_0/lib/xil_testcache.o ps7_cortexa9_0/lib/xcanps_sinit.o ps7_cortexa9_0/lib/xiicps_slave.o ps7
+TRACE::2020-11-05.15:44:16::SCWBDomain::_cortexa9_0/lib/xemacps_intr.o ps7_cortexa9_0/lib/xcanps_g.o ps7_cortexa9_0/lib/xiicps_intr.o ps7_cortexa9_0/lib/xil_mem.o ps7_
+TRACE::2020-11-05.15:44:16::SCWBDomain::cortexa9_0/lib/xscuwdt.o ps7_cortexa9_0/lib/xgpiops_selftest.o ps7_cortexa9_0/lib/xgpiops_sinit.o ps7_cortexa9_0/lib/close.o ps
+TRACE::2020-11-05.15:44:16::SCWBDomain::7_cortexa9_0/lib/xsdps.o ps7_cortexa9_0/lib/xusbps_g.o ps7_cortexa9_0/lib/xqspips_hw.o ps7_cortexa9_0/lib/xttcps_selftest.o ps7
+TRACE::2020-11-05.15:44:16::SCWBDomain::_cortexa9_0/lib/putnum.o ps7_cortexa9_0/lib/abort.o ps7_cortexa9_0/lib/xscutimer_selftest.o ps7_cortexa9_0/lib/xttcps_sinit.o p
+TRACE::2020-11-05.15:44:16::SCWBDomain::s7_cortexa9_0/lib/inbyte.o ps7_cortexa9_0/lib/usleep.o ps7_cortexa9_0/lib/xscutimer_sinit.o ps7_cortexa9_0/lib/xdmaps_sinit.o p
+TRACE::2020-11-05.15:44:16::SCWBDomain::s7_cortexa9_0/lib/xil_misc_psreset_api.o ps7_cortexa9_0/lib/xsdps_options.o ps7_cortexa9_0/lib/xscutimer_g.o ps7_cortexa9_0/lib
+TRACE::2020-11-05.15:44:16::SCWBDomain::/xdmaps_g.o ps7_cortexa9_0/lib/xqspips_options.o ps7_cortexa9_0/lib/xil_sleeptimer.o ps7_cortexa9_0/lib/xdevcfg_hw.o ps7_cortex
+TRACE::2020-11-05.15:44:16::SCWBDomain::a9_0/lib/xusbps_sinit.o ps7_cortexa9_0/lib/xusbps_endpoint.o ps7_cortexa9_0/lib/_exit.o ps7_cortexa9_0/lib/xgpiops_g.o ps7_cort
+TRACE::2020-11-05.15:44:16::SCWBDomain::exa9_0/lib/xplatform_info.o ps7_cortexa9_0/lib/xadcps_selftest.o ps7_cortexa9_0/lib/xil_printf.o ps7_cortexa9_0/lib/xadcps_sini
+TRACE::2020-11-05.15:44:16::SCWBDomain::t.o ps7_cortexa9_0/lib/xqspips_sinit.o ps7_cortexa9_0/lib/xadcps_g.o ps7_cortexa9_0/lib/xuartps_hw.o ps7_cortexa9_0/lib/xiicps_
+TRACE::2020-11-05.15:44:16::SCWBDomain::sinit.o ps7_cortexa9_0/lib/xscugic.o ps7_cortexa9_0/lib/xil-crt0.o ps7_cortexa9_0/lib/isatty.o ps7_cortexa9_0/lib/sbrk.o ps7_co
+TRACE::2020-11-05.15:44:16::SCWBDomain::rtexa9_0/lib/xscuwdt_selftest.o ps7_cortexa9_0/lib/xcanps_hw.o ps7_cortexa9_0/lib/xil_clocking.o ps7_cortexa9_0/lib/xscuwdt_g.o
+TRACE::2020-11-05.15:44:16::SCWBDomain:: ps7_cortexa9_0/lib/xsdps_g.o ps7_cortexa9_0/lib/xuartps_options.o ps7_cortexa9_0/lib/errno.o ps7_cortexa9_0/lib/fstat.o ps7_co
+TRACE::2020-11-05.15:44:16::SCWBDomain::rtexa9_0/lib/xgpiops_hw.o ps7_cortexa9_0/lib/lseek.o ps7_cortexa9_0/lib/xdmaps_hw.o ps7_cortexa9_0/lib/xsdps_card.o ps7_cortexa
+TRACE::2020-11-05.15:44:16::SCWBDomain::9_0/lib/xuartps_intr.o ps7_cortexa9_0/lib/xil_util.o ps7_cortexa9_0/lib/xscugic_selftest.o ps7_cortexa9_0/lib/xcanps_intr.o ps7
+TRACE::2020-11-05.15:44:16::SCWBDomain::_cortexa9_0/lib/xtime_l.o ps7_cortexa9_0/lib/xttcps_g.o ps7_cortexa9_0/lib/read.o ps7_cortexa9_0/lib/xscuwdt_sinit.o ps7_cortex
+TRACE::2020-11-05.15:44:16::SCWBDomain::a9_0/lib/outbyte.o ps7_cortexa9_0/lib/xscugic_sinit.o ps7_cortexa9_0/lib/xgpiops_intr.o ps7_cortexa9_0/lib/xscugic_g.o ps7_cort
+TRACE::2020-11-05.15:44:16::SCWBDomain::exa9_0/lib/xil_sleepcommon.o ps7_cortexa9_0/lib/xdevcfg_intr.o ps7_cortexa9_0/lib/vectors.o ps7_cortexa9_0/lib/xadcps_intr.o ps
+TRACE::2020-11-05.15:44:16::SCWBDomain::7_cortexa9_0/lib/cpu_init.o ps7_cortexa9_0/lib/xiicps_selftest.o ps7_cortexa9_0/lib/xemacps_bdring.o ps7_cortexa9_0/lib/boot.o 
+TRACE::2020-11-05.15:44:16::SCWBDomain::ps7_cortexa9_0/lib/xil_mmu.o ps7_cortexa9_0/lib/write.o ps7_cortexa9_0/lib/translation_table.o ps7_cortexa9_0/lib/xiicps_g.o ps
+TRACE::2020-11-05.15:44:16::SCWBDomain::7_cortexa9_0/lib/xdmaps_selftest.o ps7_cortexa9_0/lib/xusbps.o ps7_cortexa9_0/lib/xil_testio.o ps7_cortexa9_0/lib/xil_cache.o p
+TRACE::2020-11-05.15:44:16::SCWBDomain::s7_cortexa9_0/lib/xemacps.o ps7_cortexa9_0/lib/xqspips.o ps7_cortexa9_0/lib/print.o ps7_cortexa9_0/lib/xttcps_options.o ps7_cor
+TRACE::2020-11-05.15:44:16::SCWBDomain::texa9_0/lib/kill.o ps7_cortexa9_0/lib/fcntl.o ps7_cortexa9_0/lib/_open.o ps7_cortexa9_0/lib/cpputest_time.o ps7_cortexa9_0/lib/
+TRACE::2020-11-05.15:44:16::SCWBDomain::sleep.o ps7_cortexa9_0/lib/xuartps.o ps7_cortexa9_0/lib/xscugic_hw.o ps7_cortexa9_0/lib/xiicps_xfer.o ps7_cortexa9_0/lib/xcores
+TRACE::2020-11-05.15:44:16::SCWBDomain::ightpsdcc.o ps7_cortexa9_0/lib/xsdps_host.o ps7_cortexa9_0/lib/xusbps_intr.o ps7_cortexa9_0/lib/xcanps.o ps7_cortexa9_0/lib/xil
+TRACE::2020-11-05.15:44:16::SCWBDomain::_assert.o ps7_cortexa9_0/lib/xscugic_intr.o ps7_cortexa9_0/lib/open.o ps7_cortexa9_0/lib/xdevcfg.o ps7_cortexa9_0/lib/xemacps_c
+TRACE::2020-11-05.15:44:16::SCWBDomain::ontrol.o ps7_cortexa9_0/lib/xil_testmem.o ps7_cortexa9_0/lib/xil_exception.o ps7_cortexa9_0/lib/xqspips_selftest.o ps7_cortexa9
+TRACE::2020-11-05.15:44:16::SCWBDomain::_0/lib/xdevcfg_sinit.o
+
+TRACE::2020-11-05.15:44:16::SCWBDomain::Finished building libraries
+
+TRACE::2020-11-05.15:44:16::SCWBDomain::make: Leaving directory `/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp'
+
+TRACE::2020-11-05.15:44:16::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c pcap.c -o pcap.o -Izynq_fsbl_bsp/ps7_
+TRACE::2020-11-05.15:44:16::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2020-11-05.15:44:16::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c qspi.c -o qspi.o -Izynq_fsbl_bsp/ps7_
+TRACE::2020-11-05.15:44:16::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2020-11-05.15:44:17::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c rsa.c -o rsa.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2020-11-05.15:44:17::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2020-11-05.15:44:17::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c main.c -o main.o -Izynq_fsbl_bsp/ps7_
+TRACE::2020-11-05.15:44:17::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2020-11-05.15:44:17::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c fsbl_hooks.c -o fsbl_hooks.o -Izynq_f
+TRACE::2020-11-05.15:44:17::SCWBDomain::sbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2020-11-05.15:44:17::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c md5.c -o md5.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2020-11-05.15:44:17::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2020-11-05.15:44:17::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c image_mover.c -o image_mover.o -Izynq
+TRACE::2020-11-05.15:44:17::SCWBDomain::_fsbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2020-11-05.15:44:17::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c ps7_init.c -o ps7_init.o -Izynq_fsbl_
+TRACE::2020-11-05.15:44:17::SCWBDomain::bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2020-11-05.15:44:17::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c nor.c -o nor.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2020-11-05.15:44:17::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2020-11-05.15:44:17::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c nand.c -o nand.o -Izynq_fsbl_bsp/ps7_
+TRACE::2020-11-05.15:44:17::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2020-11-05.15:44:17::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c sd.c -o sd.o -Izynq_fsbl_bsp/ps7_cort
+TRACE::2020-11-05.15:44:17::SCWBDomain::exa9_0/include -I.
+
+TRACE::2020-11-05.15:44:18::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c fsbl_handoff.S -o fsbl_handoff.o -Izy
+TRACE::2020-11-05.15:44:18::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2020-11-05.15:44:18::SCWBDomain::arm-none-eabi-gcc -o fsbl.elf  pcap.o  qspi.o  rsa.o  main.o  fsbl_hooks.o  md5.o  image_mover.o  ps7_init.o  nor.o  nand.o  sd
+TRACE::2020-11-05.15:44:18::SCWBDomain::.o  fsbl_handoff.o  -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard 
+TRACE::2020-11-05.15:44:18::SCWBDomain::-Wl,-build-id=none -specs=Xilinx.spec  -lrsa -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lg
+TRACE::2020-11-05.15:44:18::SCWBDomain::cc,-lc,--end-group -Wl,--start-group,-lrsa,-lxil,-lgcc,-lc,--end-group                                      -Wl,--gc-sections -
+TRACE::2020-11-05.15:44:18::SCWBDomain::Lzynq_fsbl_bsp/ps7_cortexa9_0/lib -L./ -Tlscript.ld
+
+LOG::2020-11-05.15:44:18::SCWSystem::Checking the domain standalone_ps7_cortexa9_0
+LOG::2020-11-05.15:44:18::SCWSystem::Not a boot domain 
+LOG::2020-11-05.15:44:18::SCWSystem::Started Processing the domain standalone_ps7_cortexa9_0
+TRACE::2020-11-05.15:44:18::SCWDomain::Generating domain artifcats
+TRACE::2020-11-05.15:44:18::SCWMssOS::Generating standalone artifcats
+TRACE::2020-11-05.15:44:18::SCWMssOS::Copying the qemu file from  /proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/export/zc702/sw/zc702/qemu/
+TRACE::2020-11-05.15:44:18::SCWMssOS::Copying the qemu file from  /proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/export/zc702/sw/zc702/standalone_ps7_cortexa9_0/qemu/
+TRACE::2020-11-05.15:44:18::SCWMssOS:: Copying the user libraries. 
+TRACE::2020-11-05.15:44:18::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:18::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:18::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:18::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:44:18::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:18::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:44:18::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:44:18::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:44:18::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:44:18::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:44:18::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:44:18::SCWMssOS::Completed writing the mss file at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2020-11-05.15:44:18::SCWMssOS::Mss edits present, copying mssfile into export location /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:44:18::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2020-11-05.15:44:18::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2020-11-05.15:44:18::SCWDomain::Building the domain as part of full build :  standalone_ps7_cortexa9_0
+TRACE::2020-11-05.15:44:18::SCWMssOS::doing bsp build ... 
+TRACE::2020-11-05.15:44:18::SCWMssOS::System Command Ran  cd  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp ; bash -c "make  " 
+TRACE::2020-11-05.15:44:18::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Finished building libraries sequentially.
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -j --no-print-directory par_libs
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_8/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_3/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/gpiops_v3_8/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:18::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:18::SCWMssOS::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v7_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-
+TRACE::2020-11-05.15:44:18::SCWMssOS::eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=ha
+TRACE::2020-11-05.15:44:18::SCWMssOS::rd -nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_12/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/ttcps_v3_12/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_6/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/emacps_v3_12/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eab
+TRACE::2020-11-05.15:44:18::SCWMssOS::i-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard 
+TRACE::2020-11-05.15:44:18::SCWMssOS::-nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ttcps_v3_12/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:18::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:18::SCWMssOS::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/usbps_v2_6/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-11-05.15:44:18::SCWMssOS::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-11-05.15:44:18::SCWMssOS::ostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-no
+TRACE::2020-11-05.15:44:18::SCWMssOS::ne-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi
+TRACE::2020-11-05.15:44:18::SCWMssOS::=hard -nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_3/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/iicps_v3_12/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:18::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:18::SCWMssOS::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:18::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:18::SCWMssOS::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/iicps_v3_12/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:18::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:18::SCWMssOS::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_3/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2020-11-05.15:44:18::SCWMssOS::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2020-11-05.15:44:18::SCWMssOS:: -nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/canps_v3_5/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_5/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/canps_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-11-05.15:44:18::SCWMssOS::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-11-05.15:44:18::SCWMssOS::ostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:18::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:18::SCWMssOS::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_10/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-
+TRACE::2020-11-05.15:44:18::SCWMssOS::none-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-a
+TRACE::2020-11-05.15:44:18::SCWMssOS::bi=hard -nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/sdps_v3_10/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-11-05.15:44:18::SCWMssOS::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-11-05.15:44:18::SCWMssOS::ostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_10/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_8/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-11-05.15:44:18::SCWMssOS::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-11-05.15:44:18::SCWMssOS::ostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_10/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eab
+TRACE::2020-11-05.15:44:18::SCWMssOS::i-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard 
+TRACE::2020-11-05.15:44:18::SCWMssOS::-nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/qspips_v3_8/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:18::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:18::SCWMssOS::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_3/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_7/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v4_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-11-05.15:44:18::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-11-05.15:44:18::SCWMssOS::nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-11-05.15:44:18::SCWMssOS::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-11-05.15:44:18::SCWMssOS::ostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_8/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/standalone_v7_3/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_12/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v3_12/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_6/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/gpiops_v3_8/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:18::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:18::SCWMssOS::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v7_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eab
+TRACE::2020-11-05.15:44:18::SCWMssOS::i-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard 
+TRACE::2020-11-05.15:44:18::SCWMssOS::-nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_7/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/emacps_v3_12/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2020-11-05.15:44:18::SCWMssOS::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2020-11-05.15:44:18::SCWMssOS::startfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_3/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ttcps_v3_12/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:18::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:18::SCWMssOS::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/usbps_v2_6/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2020-11-05.15:44:18::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2020-11-05.15:44:18::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-
+TRACE::2020-11-05.15:44:18::SCWMssOS::eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=ha
+TRACE::2020-11-05.15:44:18::SCWMssOS::rd -nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:18::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:18::SCWMssOS::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:18::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:18::SCWMssOS::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/iicps_v3_12/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/iicps_v3_12/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:18::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:18::SCWMssOS::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_3/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-11-05.15:44:18::SCWMssOS::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-11-05.15:44:18::SCWMssOS::ostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/canps_v3_5/src
+
+TRACE::2020-11-05.15:44:18::SCWMssOS::make -C ps7_cortexa9_0/libsrc/canps_v3_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2020-11-05.15:44:18::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2020-11-05.15:44:19::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:19::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_5/src
+
+TRACE::2020-11-05.15:44:19::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:19::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:19::SCWMssOS::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:19::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src
+
+TRACE::2020-11-05.15:44:19::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-non
+TRACE::2020-11-05.15:44:19::SCWMssOS::e-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=
+TRACE::2020-11-05.15:44:19::SCWMssOS::hard -nostartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:19::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_10/src
+
+TRACE::2020-11-05.15:44:19::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_2/src
+
+TRACE::2020-11-05.15:44:19::SCWMssOS::make -C ps7_cortexa9_0/libsrc/sdps_v3_10/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2020-11-05.15:44:19::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2020-11-05.15:44:19::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:19::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2020-11-05.15:44:19::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2020-11-05.15:44:19::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:19::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_10/src
+
+TRACE::2020-11-05.15:44:19::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_10/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2020-11-05.15:44:19::SCWMssOS::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2020-11-05.15:44:19::SCWMssOS::startfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:19::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_8/src
+
+TRACE::2020-11-05.15:44:19::SCWMssOS::make -C ps7_cortexa9_0/libsrc/qspips_v3_8/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:19::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:19::SCWMssOS::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:19::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/scugic_v4_3/src
+
+TRACE::2020-11-05.15:44:19::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v4_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-11-05.15:44:19::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-11-05.15:44:19::SCWMssOS::tartfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:19::SCWMssOS::Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_7/src
+
+TRACE::2020-11-05.15:44:19::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_7/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2020-11-05.15:44:19::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2020-11-05.15:44:19::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2020-11-05.15:44:20::SCWMssOS::Finished building libraries parallelly.
+
+TRACE::2020-11-05.15:44:20::SCWMssOS::make --no-print-directory archive
+
+TRACE::2020-11-05.15:44:20::SCWMssOS::arm-none-eabi-ar -r  ps7_cortexa9_0/lib/libxil.a ps7_cortexa9_0/lib/xsdps_g.o ps7_cortexa9_0/lib/xusbps.o ps7_cortexa9_0/lib/xq
+TRACE::2020-11-05.15:44:20::SCWMssOS::spips_g.o ps7_cortexa9_0/lib/xiicps_master.o ps7_cortexa9_0/lib/xusbps_endpoint.o ps7_cortexa9_0/lib/_sbrk.o ps7_cortexa9_0/lib
+TRACE::2020-11-05.15:44:20::SCWMssOS::/xiicps.o ps7_cortexa9_0/lib/xemacps_g.o ps7_cortexa9_0/lib/xpm_counter.o ps7_cortexa9_0/lib/xttcps.o ps7_cortexa9_0/lib/xdevcf
+TRACE::2020-11-05.15:44:20::SCWMssOS::g_selftest.o ps7_cortexa9_0/lib/xgpiops_sinit.o ps7_cortexa9_0/lib/xdevcfg_sinit.o ps7_cortexa9_0/lib/xil_testcache.o ps7_corte
+TRACE::2020-11-05.15:44:20::SCWMssOS::xa9_0/lib/xscugic_intr.o ps7_cortexa9_0/lib/abort.o ps7_cortexa9_0/lib/xiicps_options.o ps7_cortexa9_0/lib/asm_vectors.o ps7_co
+TRACE::2020-11-05.15:44:20::SCWMssOS::rtexa9_0/lib/xiicps_hw.o ps7_cortexa9_0/lib/xl2cc_counter.o ps7_cortexa9_0/lib/xgpiops.o ps7_cortexa9_0/lib/xgpiops_hw.o ps7_co
+TRACE::2020-11-05.15:44:20::SCWMssOS::rtexa9_0/lib/lseek.o ps7_cortexa9_0/lib/outbyte.o ps7_cortexa9_0/lib/xdmaps.o ps7_cortexa9_0/lib/xuartps_sinit.o ps7_cortexa9_0
+TRACE::2020-11-05.15:44:20::SCWMssOS::/lib/xcanps_selftest.o ps7_cortexa9_0/lib/xadcps.o ps7_cortexa9_0/lib/xuartps_g.o ps7_cortexa9_0/lib/xil_printf.o ps7_cortexa9_
+TRACE::2020-11-05.15:44:20::SCWMssOS::0/lib/xcanps_sinit.o ps7_cortexa9_0/lib/xiicps_slave.o ps7_cortexa9_0/lib/xdmaps_sinit.o ps7_cortexa9_0/lib/xcanps_g.o ps7_cort
+TRACE::2020-11-05.15:44:20::SCWMssOS::exa9_0/lib/xiicps_intr.o ps7_cortexa9_0/lib/xscuwdt.o ps7_cortexa9_0/lib/xgpiops_selftest.o ps7_cortexa9_0/lib/xusbps_sinit.o p
+TRACE::2020-11-05.15:44:20::SCWMssOS::s7_cortexa9_0/lib/close.o ps7_cortexa9_0/lib/xsdps.o ps7_cortexa9_0/lib/xgpiops_g.o ps7_cortexa9_0/lib/xqspips_hw.o ps7_cortexa
+TRACE::2020-11-05.15:44:20::SCWMssOS::9_0/lib/xttcps_selftest.o ps7_cortexa9_0/lib/putnum.o ps7_cortexa9_0/lib/xscutimer_selftest.o ps7_cortexa9_0/lib/xttcps_sinit.o
+TRACE::2020-11-05.15:44:20::SCWMssOS:: ps7_cortexa9_0/lib/inbyte.o ps7_cortexa9_0/lib/xemacps_hw.o ps7_cortexa9_0/lib/xscutimer_sinit.o ps7_cortexa9_0/lib/xttcps_g.o
+TRACE::2020-11-05.15:44:20::SCWMssOS:: ps7_cortexa9_0/lib/xil_misc_psreset_api.o ps7_cortexa9_0/lib/xscutimer_g.o ps7_cortexa9_0/lib/xdmaps_g.o ps7_cortexa9_0/lib/ge
+TRACE::2020-11-05.15:44:20::SCWMssOS::tpid.o ps7_cortexa9_0/lib/xsdps_options.o ps7_cortexa9_0/lib/xil_sleeptimer.o ps7_cortexa9_0/lib/xdevcfg_hw.o ps7_cortexa9_0/li
+TRACE::2020-11-05.15:44:20::SCWMssOS::b/xscuwdt_selftest.o ps7_cortexa9_0/lib/unlink.o ps7_cortexa9_0/lib/isatty.o ps7_cortexa9_0/lib/_exit.o ps7_cortexa9_0/lib/xil_
+TRACE::2020-11-05.15:44:20::SCWMssOS::mem.o ps7_cortexa9_0/lib/xplatform_info.o ps7_cortexa9_0/lib/xadcps_selftest.o ps7_cortexa9_0/lib/xadcps_sinit.o ps7_cortexa9_0
+TRACE::2020-11-05.15:44:20::SCWMssOS::/lib/xqspips_sinit.o ps7_cortexa9_0/lib/xadcps_g.o ps7_cortexa9_0/lib/xiicps_sinit.o ps7_cortexa9_0/lib/xscugic.o ps7_cortexa9_
+TRACE::2020-11-05.15:44:20::SCWMssOS::0/lib/xil-crt0.o ps7_cortexa9_0/lib/xscugic_g.o ps7_cortexa9_0/lib/xiicps_selftest.o ps7_cortexa9_0/lib/xemacps_intr.o ps7_cort
+TRACE::2020-11-05.15:44:20::SCWMssOS::exa9_0/lib/xcanps_hw.o ps7_cortexa9_0/lib/xil_clocking.o ps7_cortexa9_0/lib/xscuwdt_g.o ps7_cortexa9_0/lib/xdevcfg_intr.o ps7_c
+TRACE::2020-11-05.15:44:20::SCWMssOS::ortexa9_0/lib/errno.o ps7_cortexa9_0/lib/fstat.o ps7_cortexa9_0/lib/xusbps_hw.o ps7_cortexa9_0/lib/xsdps_card.o ps7_cortexa9_0/
+TRACE::2020-11-05.15:44:20::SCWMssOS::lib/xuartps_intr.o ps7_cortexa9_0/lib/xil_util.o ps7_cortexa9_0/lib/xscugic_selftest.o ps7_cortexa9_0/lib/xemacps_sinit.o ps7_c
+TRACE::2020-11-05.15:44:20::SCWMssOS::ortexa9_0/lib/xcanps_intr.o ps7_cortexa9_0/lib/xttcps_options.o ps7_cortexa9_0/lib/xtime_l.o ps7_cortexa9_0/lib/xscuwdt_sinit.o
+TRACE::2020-11-05.15:44:20::SCWMssOS:: ps7_cortexa9_0/lib/xdevcfg_g.o ps7_cortexa9_0/lib/fcntl.o ps7_cortexa9_0/lib/xscugic_sinit.o ps7_cortexa9_0/lib/xgpiops_intr.o
+TRACE::2020-11-05.15:44:20::SCWMssOS:: ps7_cortexa9_0/lib/xdmaps_hw.o ps7_cortexa9_0/lib/xil_sleepcommon.o ps7_cortexa9_0/lib/usleep.o ps7_cortexa9_0/lib/vectors.o p
+TRACE::2020-11-05.15:44:20::SCWMssOS::s7_cortexa9_0/lib/xadcps_intr.o ps7_cortexa9_0/lib/cpu_init.o ps7_cortexa9_0/lib/xemacps_bdring.o ps7_cortexa9_0/lib/boot.o ps7
+TRACE::2020-11-05.15:44:20::SCWMssOS::_cortexa9_0/lib/xil_mmu.o ps7_cortexa9_0/lib/write.o ps7_cortexa9_0/lib/translation_table.o ps7_cortexa9_0/lib/xiicps_g.o ps7_c
+TRACE::2020-11-05.15:44:20::SCWMssOS::ortexa9_0/lib/xdmaps_selftest.o ps7_cortexa9_0/lib/xqspips.o ps7_cortexa9_0/lib/print.o ps7_cortexa9_0/lib/xil_testio.o ps7_cor
+TRACE::2020-11-05.15:44:20::SCWMssOS::texa9_0/lib/xil_cache.o ps7_cortexa9_0/lib/xemacps.o ps7_cortexa9_0/lib/xdevcfg.o ps7_cortexa9_0/lib/xuartps_hw.o ps7_cortexa9_
+TRACE::2020-11-05.15:44:20::SCWMssOS::0/lib/read.o ps7_cortexa9_0/lib/xscutimer.o ps7_cortexa9_0/lib/xqspips_options.o ps7_cortexa9_0/lib/kill.o ps7_cortexa9_0/lib/_
+TRACE::2020-11-05.15:44:20::SCWMssOS::open.o ps7_cortexa9_0/lib/xuartps_options.o ps7_cortexa9_0/lib/cpputest_time.o ps7_cortexa9_0/lib/sleep.o ps7_cortexa9_0/lib/xu
+TRACE::2020-11-05.15:44:20::SCWMssOS::artps.o ps7_cortexa9_0/lib/xscugic_hw.o ps7_cortexa9_0/lib/xiicps_xfer.o ps7_cortexa9_0/lib/xcoresightpsdcc.o ps7_cortexa9_0/li
+TRACE::2020-11-05.15:44:20::SCWMssOS::b/xsdps_host.o ps7_cortexa9_0/lib/xusbps_intr.o ps7_cortexa9_0/lib/xcanps.o ps7_cortexa9_0/lib/xil_assert.o ps7_cortexa9_0/lib/
+TRACE::2020-11-05.15:44:20::SCWMssOS::open.o ps7_cortexa9_0/lib/xemacps_control.o ps7_cortexa9_0/lib/xil_testmem.o ps7_cortexa9_0/lib/sbrk.o ps7_cortexa9_0/lib/xil_e
+TRACE::2020-11-05.15:44:20::SCWMssOS::xception.o ps7_cortexa9_0/lib/xqspips_selftest.o ps7_cortexa9_0/lib/xuartps_selftest.o ps7_cortexa9_0/lib/xsdps_sinit.o ps7_cor
+TRACE::2020-11-05.15:44:20::SCWMssOS::texa9_0/lib/xusbps_g.o
+
+TRACE::2020-11-05.15:44:20::SCWMssOS::Finished building libraries
+
+TRACE::2020-11-05.15:44:21::SCWMssOS::Copying to export directory.
+TRACE::2020-11-05.15:44:22::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2020-11-05.15:44:22::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2020-11-05.15:44:22::SCWSystem::Completed Processing the domain standalone_ps7_cortexa9_0
+LOG::2020-11-05.15:44:22::SCWSystem::Completed Processing the sysconfig zc702
+LOG::2020-11-05.15:44:22::SCWPlatform::Completed generating the artifacts for system configuration zc702
+TRACE::2020-11-05.15:44:22::SCWPlatform::Started preparing the platform 
+TRACE::2020-11-05.15:44:22::SCWSystem::Writing the bif file for system config zc702
+TRACE::2020-11-05.15:44:22::SCWSystem::dir created 
+TRACE::2020-11-05.15:44:22::SCWSystem::Writing the bif 
+TRACE::2020-11-05.15:44:22::SCWPlatform::Started writing the spfm file 
+TRACE::2020-11-05.15:44:22::SCWPlatform::Started writing the xpfm file 
+TRACE::2020-11-05.15:44:22::SCWPlatform::Completed generating the platform
+TRACE::2020-11-05.15:44:22::SCWMssOS::Saving the mss changes /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:44:22::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-11-05.15:44:22::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-11-05.15:44:22::SCWMssOS::Commit changes completed.
+TRACE::2020-11-05.15:44:22::SCWMssOS::Saving the mss changes /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:44:22::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-11-05.15:44:22::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-11-05.15:44:22::SCWMssOS::Commit changes completed.
+TRACE::2020-11-05.15:44:22::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:44:22::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:44:22::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:44:22::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:44:22::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:44:22::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:44:22::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:44:22::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:44:22::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:44:22::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:44:22::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:44:22::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:44:22::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:44:22::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:44:22::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-11-05.15:44:22::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:44:22::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:44:22::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:44:22::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:44:22::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:44:22::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:44:22::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:44:22::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:44:22::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:44:22::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:44:22::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:44:22::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:44:22::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:44:22::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:44:22::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:44:22::SCWWriter::formatted JSON is {
+	"platformName":	"zc702",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zc702",
+	"platHandOff":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/embeddedsw/lib/fixed_hwplatforms/zc702.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zc702.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"zc702",
+	"systems":	[{
+			"systemName":	"zc702",
+			"systemDesc":	"zc702",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"zc702",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"5c459b9e51a7fcad8ac2a5fb41580429",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"/proj/xbuilds/2020.2_1103_1/installs/lin64/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"89698c41903a108f22ff01cec4bc34b1",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2020-11-05.15:44:22::SCWPlatform::updated the xpfm file.
+TRACE::2020-11-05.15:44:22::SCWPlatform::Trying to open the hw design at /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA given /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA absoulate path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform::DSA directory /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw
+TRACE::2020-11-05.15:44:22::SCWPlatform:: Platform Path /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/hw/zc702.xsa
+TRACE::2020-11-05.15:44:22::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-11-05.15:44:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-11-05.15:44:22::SCWMssOS::Checking the sw design at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2020-11-05.15:44:22::SCWMssOS::DEBUG:  swdes dump  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-11-05.15:44:22::SCWMssOS::Sw design exists and opened at  /wrk/xhdhdnobkup2/pvempati/20202/ubuntucr4f/zc702/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
